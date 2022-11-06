@@ -17,4 +17,9 @@ and can be cloned to your personal repo.
 
 Using this project will give new developers an idea of the fundamnetal values in using semantic HTML elements and logical flow there-by increasing productivity and
 improving structure to any given website.
-![Landing Page](../../../../c:/Users/donis/Desktop/01-html-css-git-homework-demo.png)
+
+## Credits:
+
+Many thanks to the following developer for providing all the relevant rescources.
+
+https://github.com/Xandromus
