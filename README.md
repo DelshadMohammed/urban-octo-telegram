@@ -23,3 +23,7 @@ improving structure to any given website.
 Many thanks to the following developer for providing all the relevant rescources.
 
 https://github.com/Xandromus
+
+## Website image:
+
+![screenshot-of-applicaton](./assets/images/horiseon-screenshot.png)
